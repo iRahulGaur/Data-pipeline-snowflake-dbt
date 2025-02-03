@@ -28,6 +28,7 @@ The Snowflake schema used in this project includes the following:
 - `STG_TPCH_ORDERS`
 
 **Example Snowflake Schema:**
+
 ![Snowflake Schema](image1.png)
 
 ---
@@ -64,6 +65,7 @@ CREATE SCHEMA dbt_db.dbt_schema;
 ```
 
 **Example Execution in Snowflake:**
+
 ![SQL Script Execution](image2.png)
 
 ---
